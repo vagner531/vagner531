@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vagner%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagner-santos-ba7663147/)](https://www.linkedin.com/in/vagner-santos-ba7663147/)
 
-Hi, I'm Vagner Santos, a passionate frontEnd web developer from Brazil.
+Hi, I'm Vagner Santos, a passionate FrontEnd web developer from Brazil.
 
 **Languages and Tools:**  
 
