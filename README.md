@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Vagner Santos, a passionate FrontEnd web developer from Brazil.
+I'm Vagner Santos, a passionate FrontEnd web developer from Brazil.
 
 **Languages and Tools:**  
 
